@@ -30,7 +30,7 @@
     "kotlin-playground": "1.16.0",
     "loader-utils": "1.1.0",
     "mustache-loader": "1.0.0",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.13.1",
     "nunjucks": "^3.0.1",
     "nunjucks-loader": "^2.4.8",
     "postcss-loader": "^2.0.6",
